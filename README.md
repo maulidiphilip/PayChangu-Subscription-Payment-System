@@ -45,7 +45,7 @@ A full-stack subscription-based payment system built with **Node.js/Express** ba
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/maulidiphili/your-repo.git
+git clone https://github.com/maulidiphilip/PayChangu-Subscription-Payment-System.git
 cd your-repo
 ````
 
